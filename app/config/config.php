@@ -21,6 +21,6 @@ define('URLROOT', 'http://localhost/tweetmini');
 define('SITENAME', 'TweetMini');
 
 // Configuration and setup Twitter API
-define('CONSUMER_KEY', 'zyjarkoPPwlhLcEdyr7AH727d');
-define('CONSUMER_SECRET', '2Wd0rryveAvBR3Cf2M1VaFT89eosOj49Vo8pR7VxPDYvGuwYGD');
-define('OAUTH_CALLBACK', 'http://localhost/tweetmini/pages/callback');
+define('CONSUMER_KEY', 'YOUR_CONSUMER_KEY'); // Enter your twitter secret key here
+define('CONSUMER_SECRET', 'YOUR_CONSUMER_SECRET'); // Enter your twitter secret key here
+define('OAUTH_CALLBACK', 'http://localhost/tweetmini/pages/callback'); // Enter your callback url here
